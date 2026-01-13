@@ -7,7 +7,7 @@ Technical Skills: Python, Power BI, SQL, Databricks, AWS
 - Bachelors of Computer Science | NUCES - FAST (May 2018)
 
 ### Work Experience
-Workforce Data Analyst @ Monash University (Dec 2022- Present)
+#### Workforce Data Analyst @ Monash University (Dec 2022- Present)
 - Working on compliance-related activities to identify potential instances which does not meet the Enterprise Agreement guidelines
 - Building PowerBI reports and dashboards for stakeholders
 - Improving already built systems to ensure all the rules of Enterprise Agreements are followed consistently
