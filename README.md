@@ -1,6 +1,6 @@
 # Workforce Data Analyst
 
-Technical Skills: Python, Power BI, SQL, Databricks, AWS
+#### Technical Skills: Python, Power BI, SQL, Databricks, AWS
 
 ### Education
 - Master of Data Science | Royal Melbourne Institute of Technology (December 2022)
